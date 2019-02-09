@@ -1,2 +1,2 @@
 # MPPT_Arduino
-Maximum Power Point Tracking (MPPT) algorithm for Arduino MEGA  
+Maximum Power Point Tracking (MPPT) algorithm using Arduino MEGA  
